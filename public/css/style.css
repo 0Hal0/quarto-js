@@ -1,0 +1,17 @@
+.grid-container {
+    display: inline-grid;
+    grid-template-columns: 128px 128px 128px 128px;
+    grid-template-rows: 128px 128px 128px 128px;
+    align-content: center;
+    text-align: center;
+    gap: 25px;
+    background-color: black;
+  }
+
+.grid-item{
+    background-color: chocolate;
+}
+
+h1{
+    color: blue;
+}
